@@ -2,7 +2,7 @@
 name: Jesús Lanchas
 username: chechu
 bio: "Hi I'm Jesús"
-site: http://daureos.com
+site: https://chechu.github.io
 avatar: jesuslanchas.jpg
 email: jesus.lancchas@daureos.com
 social:
